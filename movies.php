@@ -50,7 +50,7 @@ echo "</tr></table>";
 
 <style>
 #movies{
-background-color: #000;
+background-color: #9E4244;
 color: #fff;
 font: 11pt Calibri;
 }
@@ -60,7 +60,7 @@ color: #fff;
 font: bold 11pt Calibri;
 }
 tr.odd{
-background-color: #18182b;
+background-color: #FC5DA8;
 
 }
 tr.even{
@@ -74,7 +74,7 @@ td{
 text-align: center;
 }
 span.year{
-color: #ccc;
+color: #fff;
 font-size: 18px;
 }
 span.name{
@@ -83,6 +83,7 @@ font-weight: bold;
 }
 body{
 margin: 0;
-padding: 0
+padding: 0;
+background-color:  #FC5DA8;
 }
 </style>
