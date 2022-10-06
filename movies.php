@@ -5,7 +5,7 @@
 </head>
 
 <body>
-<h1> MOVIES </h1>
+<h1> BAR-BILATS </h1>
 <?php
 
 $dir = 'movies';
