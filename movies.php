@@ -1,3 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Movies</title>
+</head>
+
+<body>
+<h1> MOVIES </h1>
 <?php
 
 $dir = 'movies';
@@ -47,8 +55,14 @@ echo $content;
 echo "</tr></table>";
 
 ?>
+</body>
 
+</html>
 <style>
+h1{
+	color: black;
+	text-align: center;
+		}
 #movies{
 background-color: #9E4244;
 color: #fff;
